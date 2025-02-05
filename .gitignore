@@ -11,3 +11,6 @@ YouTube/PySpark - Zero to Hero/metastore_db/
 *.crc
 _SUCCESS
 .idea
+*.db
+*.ddb
+.env
